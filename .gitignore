@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Office lock / temporary files
+~$*
+.~lock.*#
+
+# Stata logs
+*.log
+
+# Household-level survey records (farmer / enumerator IDs, free-text answers):
+# held back until the owner decides whether they belong in the repository
+Survey_Round_1_merged_wide.xlsx
+Survey_round_2_merged_wide.xlsx
+PMKISAN_use_pies_round1_round2.xlsx
+Household_expenditure_per_person_round1_round2.xlsx
